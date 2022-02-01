@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="40%" width="40%" src="https://media.giphy.com/media/tKolOaLsRFdDk2Q29j/giphy.gif">
+<img align="right" height="25%" width="25%" src="https://media.giphy.com/media/tKolOaLsRFdDk2Q29j/giphy.gif">
  <div>
   <a href="https://github.com/ssouz">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=ssouz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
