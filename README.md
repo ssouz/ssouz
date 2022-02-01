@@ -6,9 +6,10 @@
 
 
 
-<img align="right" height="25%" width="25%" src="https://media.giphy.com/media/tKolOaLsRFdDk2Q29j/giphy.gif">
+<img align="right" height="35%" width="35%" src="https://media.giphy.com/media/tKolOaLsRFdDk2Q29j/giphy.gif">
  <div>
   <a href="https://github.com/ssouz">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=ssouz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssouz&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=ssouz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="50%" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssouz&layout=compact&theme=synthwave"/>
 </div>
+
